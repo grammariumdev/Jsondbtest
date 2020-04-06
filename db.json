@@ -1,10 +1,10 @@
 [{
   "id": 1,
-  "name": "Panaderia Julio","color":"white",
-  "username": "El_mister",
-  "email": "elmister@april.biz",
+  "name": "Maria Isabel",
+  "username": "Mami",
+  "email": "misable@april.biz",
   "address": {
-    "street": "Vicente Noble",
+    "street": "Kulas Light",
     "suite": "Apt. 556",
     "city": "Gwenborough",
     "zipcode": "92998-3874",
@@ -13,11 +13,21 @@
       "lng": "81.1496"
     }
   },
-  "phone": "888-333-2222",
-  "website": "Elmister.com",
+  "phone": "1-770-736-8031 x56442",
+  "website": "hildegard.org",
   "company": {
-    "name": "Colmado El Mister",
+    "name": "Romaguera-Crona",
     "catchPhrase": "Multi-layered client-server neural-net",
-    "bs": "harness real-time e-markets"
+    "bs": "harness real-time e-markets",
+    "hours": {
+     "dias_abiertos": [
+      "Lunes: 8:00am hasta 6:00pm",
+      "Martes: 8:00am hasta 6:00pm",
+      "Miercoles: 8:00am hasta 6:00pm",
+      "Jueves: 8:00am hasta 6:00pm",
+      "Viernes: Cerrado"]
+     
+    }
+    }
   }
-}]
+]
