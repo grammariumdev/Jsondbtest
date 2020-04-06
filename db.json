@@ -1,6 +1,6 @@
 [{
   "id": 1,
-  "name": "Panaderia Julio",
+  "name": "Panaderia Julio","color":"white",
   "username": "El_mister",
   "email": "elmister@april.biz",
   "address": {
