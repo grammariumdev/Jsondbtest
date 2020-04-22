@@ -1,15 +1,13 @@
-[
-	{
-		"id": 1,
-		"link": "https://www.werd.com/wp-content/uploads/2020/04/dissim-inverted-lighter.jpg",
-		"tema": "Encendedor Dissim",
-		"autor": "Por Dissim",
-		"contenido": "El Encendedor Dissim es un hermoso y bien diseñado encendedor recargable que utiliza butano estándar para recargar y crear una llama de vela consistente y de baja presión que arde limpia, incluso cuando el encendedor está invertido. Tiene componentes de metal fundido, llama ajustable, y pesa sólo 3 onzas. Su agarre circular, pendiente de patente, hace que sea fácil de enganchar a una papelera o a un llavero de EDC."
+[{
+	"id": 1,
+	"link": "https://www.werd.com/wp-content/uploads/2020/04/dissim-inverted-lighter.jpg",
+	"tema": "Encendedor Dissim",
+	"autor": "Por Dissim",
+	"contenido": "El Encendedor Dissim es un hermoso y bien diseñado encendedor recargable que utiliza butano estándar para recargar y crear una llama de vela consistente y de baja presión que arde limpia, incluso cuando el encendedor está invertido. Tiene componentes de metal fundido, llama ajustable, y pesa sólo 3 onzas. Su agarre circular, pendiente de patente, hace que sea fácil de enganchar a una papelera o a un llavero de EDC.",
 
-		"id": 2,
-		"link2": "https://www.werd.com/wp-content/uploads/2020/04/Quiet-Carry-Shorty-Key.jpg",
-		"tema2": "El organizador de llaves cortas",
-		"auto2r": "Por Quiet Carry",
-		"contenido2": "El organizador de llaves Shorty de Quiet Carry es una pieza delgada y aerodinámica de EDC que contiene de 3 a 5 llaves entre sus escalas de titanio y cuenta con una navaja plegable de acero inoxidable de 1,7 pulgadas que bloquea el punto de caída, y un lazo para el llavero. Todo el hardware es también inoxidable para una función duradera y libre de corrosión. El Shorty está disponible en acabado lavado a la piedra, chorreado y PVD negro."
-	},
-]
+	"id2": 2,
+	"link2": "https://www.werd.com/wp-content/uploads/2020/04/Quiet-Carry-Shorty-Key.jpg",
+	"tema2": "El organizador de llaves cortas",
+	"auto2r": "Por Quiet Carry",
+	"contenido2": "El organizador de llaves Shorty de Quiet Carry es una pieza delgada y aerodinámica de EDC que contiene de 3 a 5 llaves entre sus escalas de titanio y cuenta con una navaja plegable de acero inoxidable de 1,7 pulgadas que bloquea el punto de caída, y un lazo para el llavero. Todo el hardware es también inoxidable para una función duradera y libre de corrosión. El Shorty está disponible en acabado lavado a la piedra, chorreado y PVD negro."
+}]
