@@ -5,55 +5,12 @@
 		"autor": "Por Dissim",
 		"contenido": "El Encendedor Dissim es un hermoso y bien diseñado encendedor recargable que utiliza butano estándar para recargar y crear una llama de vela consistente y de baja presión que arde limpia, incluso cuando el encendedor está invertido. Tiene componentes de metal fundido, llama ajustable, y pesa sólo 3 onzas. Su agarre circular, pendiente de patente, hace que sea fácil de enganchar a una papelera o a un llavero de EDC."
 	},
-	{
-		"phone": "1-770-736-8031 x56442",
-		"website": "hildegard.org",
-		"company": {
-			"name": "Romaguera-Crona",
-			"catchPhrase": "Multi-layered client-server neural-net",
-			"bs": "harness real-time e-markets",
-			"hours": {
-				"dias_abiertos": [
-					"Lunes: 8:00am hasta 6:00pm",
-					"Martes: 8:00am hasta 6:00pm",
-					"Miercoles: 8:00am hasta 6:00pm",
-					"Jueves: 8:00am hasta 6:00pm",
-					"Viernes: Cerrado"
-				]
-
-			}
-		}
-	}, {
+ {
 		"id": 2,
-		"name": "Julio Del Jesus",
-		"username": "Mister",
-		"email": "mister@april.biz",
-		"address": {
-			"street": "Vicente Noble",
-			"suite": "Apt. 556",
-			"city": "Agua",
-			"zipcode": "635332",
-			"geo": {
-				"lat": "-37.3159",
-				"lng": "81.1496"
-			}
-		},
-		"phone": "888-435-4534",
-		"website": "www.mister.org",
-		"company": {
-			"name": "Colmado El Mister",
-			"catchPhrase": "Multi-layered client-server neural-net",
-			"bs": "harness real-time e-markets",
-			"hours": {
-				"dias_abiertos": [
-					"Lunes: 8:00am hasta 6:00pm",
-					"Martes: 8:00am hasta 6:00pm",
-					"Miercoles: Cerrado",
-					"Jueves: 8:00am hasta 6:00pm",
-					"Viernes: 8:00am hasta 6:00pm"
-				]
-
-			}
-		}
+		"link": "https://www.werd.com/wp-content/uploads/2020/04/Quiet-Carry-Shorty-Key.jpg",
+		"tema": "El organizador de llaves cortas",
+		"autor": "Por Quiet Carry",
+		"contenido": "El organizador de llaves Shorty de Quiet Carry es una pieza delgada y aerodinámica de EDC que contiene de 3 a 5 llaves entre sus escalas de titanio y cuenta con una navaja plegable de acero inoxidable de 1,7 pulgadas que bloquea el punto de caída, y un lazo para el llavero. Todo el hardware es también inoxidable para una función duradera y libre de corrosión. El Shorty está disponible en acabado lavado a la piedra, chorreado y PVD negro."
 	}
+	
 ]
